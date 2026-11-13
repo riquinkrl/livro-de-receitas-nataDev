@@ -11,3 +11,6 @@ Aqui reunimos pratos deliciosos criados pela equipe Nata Dev.
 - [Sobremesas](sobremesas/)
 
 ## Receitas
+
+
+- [Bife Acebolado](carnes/bife-acebolado.md)
