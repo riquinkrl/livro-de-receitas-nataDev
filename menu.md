@@ -11,3 +11,4 @@ Aqui reunimos pratos deliciosos criados pela equipe Nata Dev.
 - [Sobremesas](sobremesas/)
 
 ## Receitas
+[Costela No Forno](carnes/costela-no-forno.md)
