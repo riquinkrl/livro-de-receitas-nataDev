@@ -11,3 +11,5 @@ Aqui reunimos pratos deliciosos criados pela equipe Nata Dev.
 - [Sobremesas](sobremesas/)
 
 ## Receitas
+
+- [Almôndegas ao Molho](carnes/almondegas-ao-molho.md)
