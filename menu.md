@@ -12,4 +12,5 @@ Aqui reunimos pratos deliciosos criados pela equipe Nata Dev.
 
 ## Receitas
 
+- [Costela No Forno](carnes/costela-no-forno.md)
 - [Almôndegas ao Molho](carnes/almondegas-ao-molho.md)
