@@ -11,3 +11,4 @@ Aqui reunimos pratos deliciosos criados pela equipe Nata Dev.
 - [Sobremesas](sobremesas/)
 
 ## Receitas
+- [Mousse de Maracujá](sobremesas/mousse-de-maracuja.md)
