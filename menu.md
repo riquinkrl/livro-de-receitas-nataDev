@@ -11,3 +11,5 @@ Aqui reunimos pratos deliciosos criados pela equipe Nata Dev.
 - [Sobremesas](sobremesas/)
 
 ## Receitas
+
+- [Lasanha de Frango](massas/lasanha-de-frango.md)
