@@ -17,3 +17,6 @@ Aqui reunimos pratos deliciosos criados pela equipe Nata Dev.
 - [Almôndegas ao Molho](carnes/almondegas-ao-molho.md)
 - [Bife Acebolado](carnes/bife-acebolado.md)
 - [Mousse de Maracujá](sobremesas/mousse-de-maracuja.md)
+
+- [Sopa de Abóbora com Legumes](sopas/sopa-de-abobora-com-legumes.md)
+
