@@ -13,3 +13,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Nata Dev.
 ## Receitas
 
 - [Lasanha de Frango](massas/lasanha-de-frango.md)
+- [Costela No Forno](carnes/costela-no-forno.md)
+- [Almôndegas ao Molho](carnes/almondegas-ao-molho.md)
+- [Bife Acebolado](carnes/bife-acebolado.md)
+- [Mousse de Maracujá](sobremesas/mousse-de-maracuja.md)
