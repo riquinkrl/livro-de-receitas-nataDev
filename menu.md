@@ -23,7 +23,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Nata Dev.
 - [Bife Acebolado](carnes/bife-acebolado.md)
 - [Sopa de Abóbora com Legumes](sopas/sopa-de-abobora-com-legumes.md)
 - 
-- 
+- [Sopa de Cenoura](sopas/sopa-de-cenoura.md)
 - [Mousse de Maracujá](sobremesas/mousse-de-maracuja.md)
 - [Pavê de Limão](sobremesas/pave-de-limao.md)
 - [Brownie](sobremesas/brownie.md)
