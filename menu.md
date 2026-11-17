@@ -13,6 +13,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Nata Dev.
 ## Receitas
 
 - [Lasanha de Frango](massas/lasanha-de-frango.md)
+- [Macarrão ao Molho Branco](massas/macarrao-ao-molho-branco.md)
 - [Nhoque de Batata](massas/nhoque-de-batata.md)
 -
 -
