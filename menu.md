@@ -12,6 +12,8 @@ Aqui reunimos pratos deliciosos criados pela equipe Nata Dev.
 
 ## Receitas
 
+- [Lasanha de Frango](massas/lasanha-de-frango.md)
+- [Nhoque de Batata](massas/nhoque-de-batata.md)
 -
 -
 -
@@ -21,7 +23,6 @@ Aqui reunimos pratos deliciosos criados pela equipe Nata Dev.
 - [Sopa de Abóbora com Legumes](sopas/sopa-de-abobora-com-legumes.md)
 - 
 - 
-- [Lasanha de Frango](massas/lasanha-de-frango.md)
 - 
 -
 - [Mousse de Maracujá](sobremesas/mousse-de-maracuja.md)
