@@ -1,4 +1,4 @@
-# Livro de Receitas – Nata Dev
+# Livro de Receitas – Nata Dev 👨‍🍳
 
 Este repositório integra a Atividade Prática de Engenharia de Software I, focando na aplicação prática de Gerência de Configuração de Software por meio do Git e do GitHub. O projeto consiste no desenvolvimento colaborativo de um Livro de Receitas estruturado por categorias, com ênfase no controle de versão, organização e fluxo de trabalho em equipe.
 
@@ -16,9 +16,9 @@ Para começar a navegar, abra o [menu principal](menu.md).
 
 | Nome | Usuário no GitHub | Papel |
 | :--- | :--- | :--- |
-| Enrique Carvalho | [@riquinkrl](https://github.com/riquinkrl) | Owner |
+| Enrique Carvalho | [@riquinkrl](https://github.com/riquinkrl) | Owner e Colaborador |
 | Anna Nathercia | [@nathqueiroz7](https://github.com/nathqueiroz7) | Colaborador |
-| Álefe Daniel | [@alefedsantos](https://github.com/alefedsousa) | Colaborador |
+| Álefe Daniel | [@alefedsousa](https://github.com/alefedsousa) | Colaborador |
 | Jasmine Kelly | [@jasmineksb](https://github.com/Jasmineksb) | Colaborador |
 | Lucas Vinicius | [@lucassula](https://github.com/lucassula) | Colaborador |
 
