@@ -16,6 +16,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Nata Dev.
 - [Macarrão ao Molho Branco](massas/macarrao-ao-molho-branco.md)
 - [Nhoque de Batata](massas/nhoque-de-batata.md)
 - [Salada Caprese](saladas/salada-caprese.md)
+- [Salada de Grão-de-Bico](saladas/salada-de-grao-de-bico.md)
 -
 -
 - [Costela No Forno](carnes/costela-no-forno.md)
