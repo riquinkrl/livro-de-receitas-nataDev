@@ -1,9 +1,11 @@
 # Mousse de Maracujá
 
+**Rendimento:** 4 porções
+
 ## Ingredientes
-- 1 lata de leite condensado
-- 1 lata de suco concentrado de maracujá (medida pela lata de leite condesado)
-- 1 lata de creme de leite
+- 1 lata de leite condensado (395 g)
+- 1 lata de suco concentrado de maracujá (395 ml, medida pela lata de leite condensado)
+- 1 lata de creme de leite (300 g)
 - Sementes de 1 maracujá para decorar (opcional)
 
 ## Modo de Preparo

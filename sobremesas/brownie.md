@@ -1,12 +1,14 @@
 # Brownie
 
+**Rendimento:** 8 porções (8 quadrados)
+
 ## Ingredientes
 - 3 ovos grandes
-- 1 xícara de chá de açúcar (200 gramas) 
-- 2/3 de xícara de chá de manteiga ou margarina (150 gramas)
-- 1/4 de colher de chá de sal
-- 1 e 1/3 de xícara de chá de farinha de trigo (160 gramas)
-- 2 xícaras de chá de achocolatado em pó (280 gramas)
+- 1 xícara (chá) de açúcar (200 g)
+- 2/3 de xícara (chá) de manteiga ou margarina (150 g)
+- 1/4 de colher (chá) de sal
+- 1 e 1/3 de xícara (chá) de farinha de trigo (160 g)
+- 2 xícaras (chá) de achocolatado em pó (280 g)
 
 ## Modo de Preparo
 1. Preaqueça o forno a 180 °C.

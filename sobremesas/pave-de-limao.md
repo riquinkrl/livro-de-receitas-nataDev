@@ -1,12 +1,14 @@
 # Pavê de Limão
 
+**Rendimento:** 6 porções
+
 ## Ingredientes
-- 2 caixinhas de leite condensado 
-- 2 caixinhas de creme de leite
+- 2 caixas de leite condensado (790 g)
+- 2 caixas de creme de leite (400 g)
 - 150 ml de suco de limão
-- 3 pacotes de bolacha maizena (ou outra de sua preferência)
-- 1 xícara (chá) de leite
-- Raspas de limão para decorar(opcional)
+- 3 pacotes de bolacha maizena (400 g)
+- 1 xícara (chá) de leite (240 ml)
+- Raspas de limão para decorar (opcional)
 
 ## Modo de Preparo
 1. No liquidificador, bata o leite condensado, o creme de leite e o suco de limão até ficar homogêneo.
