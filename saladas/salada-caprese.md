@@ -1,10 +1,12 @@
 # Salada Caprese
 
+**Rendimento:** 4 porções
+
 ## Ingredientes
-- 3 tomates maduros
-- 200 g de muçarela de bufala
-- 1 punhado de folhas de manjericão fresco
-- 3 colheres de sopa de azeite
+- 3 tomates maduros (cerca de 450 g)
+- 200 g de muçarela de búfala
+- 1 xícara (chá) de folhas de manjericão fresco (cerca de 20 g)
+- 3 colheres (sopa) de azeite (45 ml)
 - Sal e pimenta-do-reino a gosto
 
 ## Modo de Preparo

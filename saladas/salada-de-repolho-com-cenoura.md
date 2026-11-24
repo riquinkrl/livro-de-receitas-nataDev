@@ -1,11 +1,13 @@
 # Salada de Repolho com Cenoura
 
+**Rendimento:** 4 porções
+
 ## Ingredientes
-- 1/4 de repolho branco fatiado fino
-- 2 cenouras raladas
-- 2 colheres de sopa de maionese
-- 1 colher de sopa de vinagre
-- 1 colher de chá de açúcar
+- 1/4 de repolho branco fatiado fino (cerca de 200 g)
+- 2 cenouras médias raladas (cerca de 240 g)
+- 2 colheres (sopa) de maionese (30 g)
+- 1 colher (sopa) de vinagre (15 ml)
+- 1 colher (chá) de açúcar (5 g)
 - Sal e pimenta-do-reino a gosto
 
 ## Modo de Preparo
