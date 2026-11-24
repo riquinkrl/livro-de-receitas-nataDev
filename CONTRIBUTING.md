@@ -48,6 +48,8 @@ Cada receita fica em `<categoria>/<nome-da-receita>.md`, com este formato:
 ```markdown
 # Nome da Receita
 
+**Rendimento:** 4 porções
+
 ## Ingredientes
 - item
 
@@ -57,9 +59,9 @@ Cada receita fica em `<categoria>/<nome-da-receita>.md`, com este formato:
 ---
 
 [Voltar à Categoria](.) | [Voltar ao Menu Principal](../menu.md)
-```
+``` 
 
-Depois de adicionar a receita, inclua o link dela na seção "Receitas" do `menu.md`.
+Depois de adicionar a receita, inclua o link dela na categoria correspondente dentro da seção "Receitas" do `menu.md`.
 
 ## Pull Requests
 
