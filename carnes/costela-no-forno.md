@@ -1,20 +1,21 @@
 # Costela no Forno
 
+**Rendimento:** 6 porções
+
 ## Ingredientes
 
 - 2 kg de costela bovina em tiras ou peça
 - 6 dentes de alho amassados
-- 1 colher (sopa) de sal grosso
+- 1 colher (sopa) de sal grosso (15 g)
 - 1 colher (chá) de pimenta-do-reino moída
-- 2 colheres (sopa) de mostarda
-- 3 colheres (sopa) de azeite
+- 2 colheres (sopa) de mostarda (30 g)
+- 3 colheres (sopa) de azeite (45 ml)
 - 1 colher (sopa) de alecrim picado
-- 1 xícara (chá) de vinho tinto seco (ou caldo de carne)
-- Suco de 1 limão
-- 1 cebola grande em fatias
+- 1 xícara (chá) de vinho tinto seco ou caldo de carne (240 ml)
+- Suco de 1 limão (30 ml)
+- 1 cebola grande em fatias (cerca de 150 g)
 - 2 folhas de louro
 - Papel-alumínio
-
 ## Modo de Preparo
 
 1. Misture o alho, o sal, a pimenta, a mostarda, o azeite, o alecrim, o suco de limão e o vinho para fazer o tempero.

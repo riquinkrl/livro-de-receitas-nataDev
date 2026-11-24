@@ -1,21 +1,23 @@
 # Almôndegas ao Molho
 
+**Rendimento:** 4 porções (cerca de 16 unidades)
+
 ## Ingredientes
 
 - 500 g de carne moída (patinho ou acém)
 - 1 ovo
-- 1/2 xícara (chá) de farinha de rosca
-- 1 cebola pequena ralada
+- 1/2 xícara (chá) de farinha de rosca (60 g)
+- 1 cebola pequena ralada (cerca de 80 g)
 - 2 dentes de alho amassados
 - 2 colheres (sopa) de salsinha picada
-- 1 colher (chá) de sal
+- 1 colher (chá) de sal (5 g)
 - 1/2 colher (chá) de pimenta-do-reino
 - 1/2 colher (chá) de orégano
-- 1 cebola picada (para o molho)
-- 2 dentes de alho (para o molho)
+- 1 cebola picada para o molho (cerca de 100 g)
+- 2 dentes de alho para o molho
 - 1 lata de molho de tomate (340 g) ou 4 tomates maduros batidos
-- 1/2 xícara (chá) de água
-- 1 colher (sopa) de azeite
+- 1/2 xícara (chá) de água (120 ml)
+- 1 colher (sopa) de azeite (15 ml)
 - 1 pitada de açúcar
 - Manjericão fresco ou orégano a gosto
 

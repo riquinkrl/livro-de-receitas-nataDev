@@ -1,15 +1,17 @@
 # Bife Acebolado
 
+**Rendimento:** 4 porções
+
 ## Ingredientes
 
-- 4 bifes de alcatra ou contrafilé (cerca de 600 g, com 1,5 a 2 cm de espessura)
-- 2 cebolas grandes em rodelas
+- 4 bifes de alcatra ou contrafilé (600 g, com 1,5 a 2 cm de espessura)
+- 2 cebolas grandes em rodelas (cerca de 300 g)
 - 3 dentes de alho amassados
-- 1 colher (chá) de sal
+- 1 colher (chá) de sal (5 g)
 - 1/2 colher (chá) de pimenta-do-reino
-- Suco de 1/2 limão
-- 2 colheres (sopa) de azeite ou óleo
-- 1 colher (sopa) de manteiga (opcional)
+- Suco de 1/2 limão (15 ml)
+- 2 colheres (sopa) de azeite ou óleo (30 ml)
+- 1 colher (sopa) de manteiga (15 g, opcional)
 - Salsinha picada a gosto
 
 ## Modo de Preparo
