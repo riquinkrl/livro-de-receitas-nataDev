@@ -1,14 +1,16 @@
 # Lasanha de Frango
 
+**Rendimento:** 6 porções
+
 ## Ingredientes
 
 - 500 g de peito de frango cozido e desfiado
 - 500 g de massa para lasanha
-- 1 cebola picada
+- 1 cebola média picada (cerca de 120 g)
 - 2 dentes de alho picados
-- 2 colheres de sopa de óleo
-- 2 sachês de molho de tomate
-- 200 g de creme de leite
+- 2 colheres (sopa) de óleo (30 ml)
+- 2 sachês de molho de tomate (600 g)
+- 1 caixa de creme de leite (200 g)
 - 300 g de queijo muçarela fatiado
 - 200 g de presunto fatiado
 - Sal a gosto

@@ -1,18 +1,20 @@
 # Nhoque de Batata
 
+**Rendimento:** 4 porções
+
 ## Ingredientes
 
 ### Para o nhoque
 - 1 kg de batatas
 - 1 ovo
-- 1 xícara e meia de farinha de trigo (aproximadamente)
-- 1 colher de chá de sal
+- 1 e 1/2 xícara (chá) de farinha de trigo (cerca de 180 g)
+- 1 colher (chá) de sal (5 g)
 
 ### Acompanhamento com molho de tomate
-- 2 colheres de sopa de azeite
-- 1 cebola pequena picada
+- 2 colheres (sopa) de azeite (30 ml)
+- 1 cebola pequena picada (cerca de 80 g)
 - 2 dentes de alho picados
-- 2 sachês de molho de tomate
+- 2 sachês de molho de tomate (600 g)
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Manjericão a gosto

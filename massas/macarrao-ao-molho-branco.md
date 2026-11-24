@@ -1,14 +1,16 @@
 # Macarrão ao Molho Branco
 
+**Rendimento:** 4 porções
+
 ## Ingredientes
 
 - 500 g de macarrão de sua preferência
-- 2 colheres de sopa de manteiga
-- 1 cebola pequena picada
+- 2 colheres (sopa) de manteiga (30 g)
+- 1 cebola pequena picada (cerca de 80 g)
 - 2 dentes de alho picados
-- 2 colheres de sopa de farinha de trigo
+- 2 colheres (sopa) de farinha de trigo (20 g)
 - 500 ml de leite
-- 1 caixa de creme de leite
+- 1 caixa de creme de leite (200 g)
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Noz-moscada a gosto
