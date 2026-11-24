@@ -1,14 +1,16 @@
 # Sopa de Abobora com Legumes
 
+**Rendimento:** 4 porções
+
 ## Ingredientes
 
-- 600 gramas de abóbora cabotiá
-- Azeite a gosto
+- 600 g de abóbora cabotiá
+- 2 colheres (sopa) de azeite (30 ml)
 - 3 dentes de alho
-- 300 gramas de mix de legumes (vagem, cenoura, ervilha e milho)
+- 300 g de mix de legumes (vagem, cenoura, ervilha e milho)
 - Sal e pimenta-do-reino a gosto
 - Cebolinha picada a gosto
-- Água para cozinhar
+- 1 L de água para cozinhar
 
 ## Modo de Preparo
 

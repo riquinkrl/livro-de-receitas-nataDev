@@ -1,16 +1,18 @@
 # Sopa de Ervilha com Batata
 
+**Rendimento:** 4 porções
+
 ## Ingredientes 
 
-- 1 cebola
+- 1 cebola média (cerca de 120 g)
 - 1/2 alho-poró
-- 500 gramas de ervilha partida em grão
-- 10 mini batatas inteiras (ou 3 grandes partidas ao meio)
-- Água até cobrir tudo
-- 1/2 colher de sopa de tomilho fresco
-- 1/2 colher de sopa de páprica defumada
-- 1/2 colher de sopa de alho em pó
-- 1/2 colher de sopa de cebola em pó
+- 500 g de ervilha partida em grão
+- 10 mini batatas inteiras ou 3 grandes partidas ao meio (cerca de 450 g)
+- 1,5 L de água (suficiente para cobrir tudo)
+- 1/2 colher (sopa) de tomilho fresco
+- 1/2 colher (sopa) de páprica defumada
+- 1/2 colher (sopa) de alho em pó
+- 1/2 colher (sopa) de cebola em pó
 - Sal a gosto
 
 ## Modo de Preparar

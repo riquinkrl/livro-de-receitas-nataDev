@@ -1,15 +1,17 @@
 # Sopa de Cenoura
 
+**Rendimento:** 4 porções
+
 ## Ingredientes
 
-- 1 colher de sopa de azeite (15 ml)
-- 1/2 cebola
+- 1 colher (sopa) de azeite (15 ml)
+- 1/2 cebola média (cerca de 60 g)
 - 2 dentes de alho
-- 3 cenouras
-- 1/2 batata
+- 3 cenouras médias (cerca de 360 g)
+- 1/2 batata média (cerca de 80 g)
 - Sal a gosto
-- Pimenta do reino a gosto
-- 2 xícaras de chá de caldo de legumes (480 ml)
+- Pimenta-do-reino a gosto
+- 2 xícaras (chá) de caldo de legumes (480 ml)
 
 ## Modo de Preparo
 
